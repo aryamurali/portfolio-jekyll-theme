@@ -2,9 +2,9 @@
 # General Site Settings
 
 menu:
-- {name: 'Projects', url: ''}
+- {name: 'Projects', url: 'pages/projects.html'}
 - {name: 'Blog', url: 'pages/blog.html'}
-- {name: 'Now', url: 'pages/about.html'}
+- {name: 'Now', url: ''}
 - {name: 'Contact', url: 'pages/contact.html'}
 
 #-------------------------------
@@ -54,11 +54,6 @@ contact: >
 
 projects:
 - {name: 'Project One', folder: 'proj-1', file: 'projects/proj-1.html'}
-- {name: 'Project Two', folder: 'proj-2', file: 'projects/proj-2.html'}
-- {name: 'Project Three', folder: 'proj-3', file: 'projects/proj-3.html'}
-- {name: 'Project Four', folder: 'proj-4', file: 'projects/proj-4.html'}
-
-otherprojects:
 - {name: 'Project Two', folder: 'proj-2', file: 'projects/proj-2.html'}
 - {name: 'Project Three', folder: 'proj-3', file: 'projects/proj-3.html'}
 - {name: 'Project Four', folder: 'proj-4', file: 'projects/proj-4.html'}
